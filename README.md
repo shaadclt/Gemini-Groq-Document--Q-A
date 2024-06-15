@@ -37,11 +37,10 @@ GOOGLE_API_KEY=your_google_api_key
 ```bash
 streamlit run app.py
 ```
-2. Use the application:
-- The app's title "Gemini Groq Document Q&A" will be displayed at the top.
+2. The app's title "Gemini Groq Document Q&A" will be displayed at the top.
 3. To embed documents, click the "Documents Embedding" button.
-- Once the vector store DB is ready, enter your query in the text input field and press enter.
-4. The response will be displayed based on the processed documents.
+4. Once the vector store DB is ready, enter your query in the text input field and press enter.
+5. The response will be displayed based on the processed documents.
 
 ## Main Components
 **Vector Embedding:**
